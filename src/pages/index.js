@@ -11,27 +11,27 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to LETS GROW!" />
+        <Header title="Bienvenu sur First Incendie !" />
         <p className="description">
-          Lets GROW est la référence des ressources : bonnes pratiques dans le domaine du Growth Hacking et de l&apos;entrepreneuriat au sens large.
+          first incendie est votre partenaire pour la securite incendie a rennes.
         </p>
         <p className="description">
-          Nous aidons gratuitement les entrepreneurs, growth hackers et commerciaux pour obtenir tout le nécessaire pour booster leur croissance.
+          Commandez vos extincteurs.
         </p>
          <p className="description">
-          Qu&apos;il s&apos;agisse de novices ou de profils chevronnés, nous alimentons chaque jour une base de :
+          Nous vous aidons a trouver vos extincteurs :
          </p>
        
-        <p className="description">Des centaines de <a href="https://firstincendie.com" target="_blank">growth hacks</a> enrichis CHAQUE JOUR</p>
-        <p className="description">Près de 100 <a href="https://firstincendie.com/categorie-produit/produits/protection-incendie/extincteur/">ressources pour entrepreneurs</a> téléchargeables</p>
+        <p className="description">leader de la <a href="https://firstincendie.com" target="_blank">securite incendie</a> en France</p>
+        <p className="description">des <a href="https://firstincendie.com/produit/extincteur-co2-2kg-feux-electriques/">extincteurs CO2</a> pas cher</p>
         <p className="description">
-          100 articles de blog autour du <a href="https://firstincendie.com/produit/extincteur-co2-2kg-feux-electriques/">growth hacking</a>, de <a href="https://www.sales-hacking.com/blog-categories/seo-content-marketing">content marketing</a>, de techniques pour les Sales, du <a href="https://www.sales-hacking.com/blog-categories/web-scraping">Web scraping</a>, de Lead Generation et de l&apos;entrepreneuriat en général,
+          des 10enes d <a href="https://firstincendie.com/categorie-produit/produits/protection-incendie/extincteur/">extincteur</a>, de <a href="https://www.sales-hacking.com/blog-categories/seo-content-marketing">content marketing</a>, de techniques pour les Sales, du <a href="https://www.sales-hacking.com/blog-categories/web-scraping">Web scraping</a>, de Lead Generation et de l&apos;entrepreneuriat en général,
         </p>
         <p className="description">
-          Des conseils de lecture avec <a href="https://firstincendie.com/produit/extincteur-eau-6l-pp/">le meilleur des livres business</a>
+          Des <a href="https://firstincendie.com/produit/extincteur-eau-6l-pp/">extincteurs eau</a>
         </p>
         <p className="description">
-          Des applications SaaS
+          super
         </p>
     
         <a href="https://twitter.com/" 
